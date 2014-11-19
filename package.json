@@ -1,9 +1,9 @@
 {
-  "name": "tracks",
+  "name": "k-tracks",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git://github.com/codeparty/tracks.git"
+    "url": "git://github.com/kantele/k-tracks.git"
   },
   "version": "0.5.3",
   "main": "./lib/index.js",
