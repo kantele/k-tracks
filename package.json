@@ -5,7 +5,7 @@
     "type": "git",
     "url": "git://github.com/kantele/k-tracks.git"
   },
-  "version": "0.5.15",
+  "version": "0.5.16",
   "main": "./lib/index.js",
   "browserify": {
     "main": "./lib/browser.js"
